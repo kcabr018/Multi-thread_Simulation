@@ -1,12 +1,12 @@
 //===========================================
-// Author: Kevin Cabrera
+// Author: 	Kevin Cabrera
 // Filename:	ControlPanel.java
 // Description:	The ControlPanel represents 
-//				a panel containing:
-//				10 buttons,
-//				2 sliders,
-//				2 labels,
-//				2 ball panels
+//		a panel containing:
+//		10 buttons,
+//		2 sliders,
+//		2 labels,
+//		2 ball panels
 //===========================================
 import javax.swing.*;
 import java.awt.*;

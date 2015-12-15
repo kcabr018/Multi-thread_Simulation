@@ -1,7 +1,7 @@
 //=======================================
 // Name:	Kevin Cabrera
 // Description: Execution of the program 
-//				begins here. 
+//		begins here. 
 //=======================================
 import javax.swing.*;
 import java.awt.*;
